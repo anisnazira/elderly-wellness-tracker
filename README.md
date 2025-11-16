@@ -1,5 +1,5 @@
 # Buddi 
-`Elderly Wellness Tracker`
+`Elderly Companion`
 
 Buddi is an elderly-focused health companion app that provides medication reminders, step monitoring, hospital appointment tracking, and weekly email updates to keep family members informed of the user’s activity.
 
